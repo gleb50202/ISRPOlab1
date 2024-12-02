@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Hello World_3!\n";
+    std::cout << "Hello World_from_featured!\n";
+    std::cout << "Hello World_from_master!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
